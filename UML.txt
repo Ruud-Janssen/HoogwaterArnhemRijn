@@ -1,0 +1,21 @@
+www.plantuml.com/plantuml/uml/
+
+@startuml
+(*) --> "Download AHN 5m resolution"
+note left: m5_40az2.tif en m5_40bz1.tif 
+(*) --> "Download SRTM 90m resolution"
+"Download AHN 5m resolution" --> "import rasters in R"
+"import rasters in R" --> "merge rasters"
+"Download SRTM 90m resolution"  --> "import raster in R"
+"merge rasters" --> "merge rasters2" 
+"import raster in R" --> "reproject and adjust resolution raster"
+"reproject and adjust resolution raster" --> "merge rasters2"
+"merge rasters2" --> "pinpoint the Rijn"
+"pinpoint the Rijn" --> "set a waterheight"
+note right: or create a seq and use lapply
+"set a waterheight" --> "cumulative_cost function" 
+note left: "from the pinpointed Rijn"
+"cumulative_cost function" --> "some visualizations"
+note right: "or convert first to a polygon"
+"some visualizations" -->(*)
+@enduml

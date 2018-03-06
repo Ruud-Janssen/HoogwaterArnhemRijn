@@ -1,0 +1,2008 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.16">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater09_0020180219133129135" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater09-00.tif" name="RiverRijnArnhemHoogwater09-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater09_2020180219033338829" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater09-20.tif" name="RiverRijnArnhemHoogwater09-20">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater09_4020180219033338683" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater09-40.tif" name="RiverRijnArnhemHoogwater09-40">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater09_6020180219033338535" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater09-60.tif" name="RiverRijnArnhemHoogwater09-60">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater09_8020180219033338394" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater09-80.tif" name="RiverRijnArnhemHoogwater09-80">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater10_0020180219033338142" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater10-00.tif" name="RiverRijnArnhemHoogwater10-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater10_2020180219132644017" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater10-20.tif" name="RiverRijnArnhemHoogwater10-20">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater10_4020180219132645240" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater10-40.tif" name="RiverRijnArnhemHoogwater10-40">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater10_6020180219132645091" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater10-60.tif" name="RiverRijnArnhemHoogwater10-60">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater10_8020180219132644966" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater10-80.tif" name="RiverRijnArnhemHoogwater10-80">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Checked" id="RiverRijnArnhemHoogwater11_0020180218234525671" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater11-00.tif" name="RiverRijnArnhemHoogwater11-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater11_2020180219132644822" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater11-20.tif" name="RiverRijnArnhemHoogwater11-20">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater11_4020180219132644682" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater11-40.tif" name="RiverRijnArnhemHoogwater11-40">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater11_6020180219132644505" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater11-60.tif" name="RiverRijnArnhemHoogwater11-60">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater11_8020180219132644347" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater11-80.tif" name="RiverRijnArnhemHoogwater11-80">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater12_0020180218234525511" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater12-00.tif" name="RiverRijnArnhemHoogwater12-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater12_2020180219142335190" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater12-20.tif" name="RiverRijnArnhemHoogwater12-20">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater12_4020180219142336394" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater12-40.tif" name="RiverRijnArnhemHoogwater12-40">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater12_6020180219142336205" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater12-60.tif" name="RiverRijnArnhemHoogwater12-60">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater12_8020180219142336027" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater12-80.tif" name="RiverRijnArnhemHoogwater12-80">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater13_0020180218234525831" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater13-00.tif" name="RiverRijnArnhemHoogwater13-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater13_2020180219142335811" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater13-20.tif" name="RiverRijnArnhemHoogwater13-20">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater13_4020180219142335597" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater13-40.tif" name="RiverRijnArnhemHoogwater13-40">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater13_6020180219142335397" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater13-60.tif" name="RiverRijnArnhemHoogwater13-60">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater13_8020180219145458967" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater13-80.tif" name="RiverRijnArnhemHoogwater13-80">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="RiverRijnArnhemHoogwater14_0020180219145821191" source="C:/Users/Ruud/Documents/Werk/GIS/Video/RiverRijnArnhemHoogwater14-00.tif" name="RiverRijnArnhemHoogwater14-00">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="OpenStreetMap20180219140557061" source="&lt;GDAL_WMS>&#xa;  &lt;Service name=&quot;TMS&quot;>&#xa;    &lt;ServerUrl>http://tile.openstreetmap.org/${z}/${x}/${y}.png&lt;/ServerUrl>&#xa;  &lt;/Service>&#xa;  &lt;DataWindow>&#xa;    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>&#xa;    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>&#xa;    &lt;LowerRightX>20037508.34&lt;/LowerRightX>&#xa;    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>&#xa;    &lt;TileLevel>19&lt;/TileLevel>&#xa;    &lt;TileCountX>1&lt;/TileCountX>&#xa;    &lt;TileCountY>1&lt;/TileCountY>&#xa;    &lt;YOrigin>top&lt;/YOrigin>&#xa;  &lt;/DataWindow>&#xa;  &lt;Projection>EPSG:3857&lt;/Projection>&#xa;  &lt;BlockSizeX>256&lt;/BlockSizeX>&#xa;  &lt;BlockSizeY>256&lt;/BlockSizeY>&#xa;  &lt;BandsCount>3&lt;/BandsCount>&#xa;  &lt;Cache />&#xa;&lt;/GDAL_WMS>&#xa;" name="OpenStreetMap">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenLayers_plugin_layer20180128233606485" source="C:/Users/Ruud/Documents/Werk/GIS/HoogwaterArnhemRijn" name="Google Streets">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>651722.44193368416745216</xmin>
+      <ymin>6791998.82740244176238775</ymin>
+      <xmax>661967.10861080035101622</xmax>
+      <ymax>6798550.05241863522678614</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>1</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
+        <srsid>3857</srsid>
+        <srid>3857</srid>
+        <authid>EPSG:3857</authid>
+        <description>WGS 84 / Pseudo Mercator</description>
+        <projectionacronym>merc</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="r_40bz120180128233440590"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater__1_20180218194249441"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater12_8020180219142336027"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater12_6020180219142336205"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater14_0020180219145821191"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater07_0020180219033339148"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater20180218175216003"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater10_2020180219132644017"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_6020180219132644505"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_4020180219132644682"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater10_8020180219132644966"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater10_6020180219132645091"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_4020180219142335597"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater12_0020180218234525511"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenStreetMap20180219140557061"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater09_8020180219033338394"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_0020180218234525671"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater12_2020180219142335190"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_0020180218234525831"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_8020180219145458967"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater09_4020180219033338683"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater10_0020180219033338142"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater09_0020180219133129135"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OCM_Landscape20180219140721263"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_2020180219142335811"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater09_2020180219033338829"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_8020180219132644347"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater08_0020180219033338976"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_0020180218222858091"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater09_6020180219033338535"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhem__1_20180218152145894"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_0020180218222858251"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater10_4020180219132645240"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180128233606485"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater12_4020180219142336394"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater13_6020180219142335397"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:28992" srcDatumTransform="-1" destDatumTransform="-1" layerid="RiverRijnArnhemHoogwater11_2020180219132644822"/>
+    </layer_coordinate_transform_info>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>OpenLayers_plugin_layer20180128233606485</item>
+      <item>RiverRijnArnhemHoogwater12_0020180218234525511</item>
+      <item>RiverRijnArnhemHoogwater11_0020180218234525671</item>
+      <item>RiverRijnArnhemHoogwater13_0020180218234525831</item>
+      <item>RiverRijnArnhemHoogwater10_0020180219033338142</item>
+      <item>RiverRijnArnhemHoogwater09_8020180219033338394</item>
+      <item>RiverRijnArnhemHoogwater09_6020180219033338535</item>
+      <item>RiverRijnArnhemHoogwater09_4020180219033338683</item>
+      <item>RiverRijnArnhemHoogwater09_2020180219033338829</item>
+      <item>RiverRijnArnhemHoogwater10_2020180219132644017</item>
+      <item>RiverRijnArnhemHoogwater11_8020180219132644347</item>
+      <item>RiverRijnArnhemHoogwater11_6020180219132644505</item>
+      <item>RiverRijnArnhemHoogwater11_4020180219132644682</item>
+      <item>RiverRijnArnhemHoogwater11_2020180219132644822</item>
+      <item>RiverRijnArnhemHoogwater10_8020180219132644966</item>
+      <item>RiverRijnArnhemHoogwater10_6020180219132645091</item>
+      <item>RiverRijnArnhemHoogwater10_4020180219132645240</item>
+      <item>RiverRijnArnhemHoogwater09_0020180219133129135</item>
+      <item>OpenStreetMap20180219140557061</item>
+      <item>RiverRijnArnhemHoogwater12_2020180219142335190</item>
+      <item>RiverRijnArnhemHoogwater13_6020180219142335397</item>
+      <item>RiverRijnArnhemHoogwater13_4020180219142335597</item>
+      <item>RiverRijnArnhemHoogwater13_2020180219142335811</item>
+      <item>RiverRijnArnhemHoogwater12_8020180219142336027</item>
+      <item>RiverRijnArnhemHoogwater12_6020180219142336205</item>
+      <item>RiverRijnArnhemHoogwater12_4020180219142336394</item>
+      <item>RiverRijnArnhemHoogwater13_8020180219145458967</item>
+      <item>RiverRijnArnhemHoogwater14_0020180219145821191</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater09-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater09_0020180219133129135" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater09-20" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater09_2020180219033338829" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater09-40" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater09_4020180219033338683" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater09-60" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater09_6020180219033338535" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater09-80" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater09_8020180219033338394" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater10-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater10_0020180219033338142" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater10-20" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater10_2020180219132644017" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater10-40" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater10_4020180219132645240" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater10-60" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater10_6020180219132645091" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater10-80" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater10_8020180219132644966" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="RiverRijnArnhemHoogwater11-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater11_0020180218234525671" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater11-20" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater11_2020180219132644822" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater11-40" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater11_4020180219132644682" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater11-60" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater11_6020180219132644505" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater11-80" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater11_8020180219132644347" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater12-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater12_0020180218234525511" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater12-20" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater12_2020180219142335190" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater12-40" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater12_4020180219142336394" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater12-60" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater12_6020180219142336205" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater12-80" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater12_8020180219142336027" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater13-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater13_0020180218234525831" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater13-20" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater13_2020180219142335811" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater13-40" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater13_4020180219142335597" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater13-60" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater13_6020180219142335397" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater13-80" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater13_8020180219145458967" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="RiverRijnArnhemHoogwater14-00" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RiverRijnArnhemHoogwater14_0020180219145821191" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OpenStreetMap" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="OpenStreetMap20180219140557061" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20180128233606485" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
+      <extent>
+        <xmin>-20037508.33999999985098839</xmin>
+        <ymin>-20037508.33999999985098839</ymin>
+        <xmax>20037508.33999999985098839</xmax>
+        <ymax>20037508.33999999985098839</ymax>
+      </extent>
+      <id>OpenLayers_plugin_layer20180128233606485</id>
+      <datasource>.</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Google Streets</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="ol_layer_type" value="Google Streets"/>
+      </customproperties>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-20037508.33999999985098839</xmin>
+        <ymin>-20037508.33999999985098839</ymin>
+        <xmax>20037508.33999999985098839</xmax>
+        <ymax>20037508.33999999985098839</ymax>
+      </extent>
+      <id>OpenStreetMap20180219140557061</id>
+      <datasource>&lt;GDAL_WMS>
+  &lt;Service name="TMS">
+    &lt;ServerUrl>http://tile.openstreetmap.org/${z}/${x}/${y}.png&lt;/ServerUrl>
+  &lt;/Service>
+  &lt;DataWindow>
+    &lt;UpperLeftX>-20037508.34&lt;/UpperLeftX>
+    &lt;UpperLeftY>20037508.34&lt;/UpperLeftY>
+    &lt;LowerRightX>20037508.34&lt;/LowerRightX>
+    &lt;LowerRightY>-20037508.34&lt;/LowerRightY>
+    &lt;TileLevel>19&lt;/TileLevel>
+    &lt;TileCountX>1&lt;/TileCountX>
+    &lt;TileCountY>1&lt;/TileCountY>
+    &lt;YOrigin>top&lt;/YOrigin>
+  &lt;/DataWindow>
+  &lt;Projection>EPSG:3857&lt;/Projection>
+  &lt;BlockSizeX>256&lt;/BlockSizeX>
+  &lt;BlockSizeY>256&lt;/BlockSizeY>
+  &lt;BandsCount>3&lt;/BandsCount>
+  &lt;Cache />
+&lt;/GDAL_WMS>
+</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>OpenStreetMap</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+        <property key="ol_layer_type" value="OpenStreetMap"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater09_0020180219133129135</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater09-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater09-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater09_2020180219033338829</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater09-20.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater09-20</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater09_4020180219033338683</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater09-40.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater09-40</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater09_6020180219033338535</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater09-60.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater09-60</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater09_8020180219033338394</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater09-80.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater09-80</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater10_0020180219033338142</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater10-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater10-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater10_2020180219132644017</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater10-20.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater10-20</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater10_4020180219132645240</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater10-40.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater10-40</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater10_6020180219132645091</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater10-60.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater10-60</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater10_8020180219132644966</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater10-80.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater10-80</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater11_0020180218234525671</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater11-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater11-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="EXACT" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="-3"/>
+        <huesaturation colorizeGreen="48" colorizeOn="1" colorizeRed="8" colorizeBlue="107" grayscaleMode="3" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater11_2020180219132644822</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater11-20.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater11-20</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater11_4020180219132644682</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater11-40.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater11-40</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater11_6020180219132644505</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater11-60.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater11-60</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater11_8020180219132644347</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater11-80.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater11-80</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater12_0020180218234525511</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater12-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater12-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater12_2020180219142335190</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater12-20.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater12-20</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater12_4020180219142336394</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater12-40.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater12-40</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater12_6020180219142336205</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater12-60.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater12-60</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater12_8020180219142336027</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater12-80.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater12-80</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater13_0020180218234525831</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater13-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater13-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.74902" alphaBand="-1" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater13_2020180219142335811</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater13-20.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater13-20</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater13_4020180219142335597</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater13-40.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater13-40</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater13_6020180219142335397</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater13-60.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater13-60</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater13_8020180219145458967</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater13-80.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater13-80</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.745098" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>186786</xmin>
+        <ymin>440274</ymin>
+        <xmax>194379</xmax>
+        <ymax>444780</ymax>
+      </extent>
+      <id>RiverRijnArnhemHoogwater14_0020180219145821191</id>
+      <datasource>../Video/RiverRijnArnhemHoogwater14-00.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>RiverRijnArnhemHoogwater14-00</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=sterea +lat_0=52.15616055555555 +lon_0=5.38763888888889 +k=0.9999079 +x_0=155000 +y_0=463000 +ellps=bessel +towgs84=565.2369,50.0087,465.658,-0.406857,0.350733,-1.87035,4.0812 +units=m +no_defs</proj4>
+          <srsid>2517</srsid>
+          <srid>28992</srid>
+          <authid>EPSG:28992</authid>
+          <description>Amersfoort / RD New</description>
+          <projectionacronym>sterea</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.741176" alphaBand="0" classificationMax="1" classificationMinMaxOrigin="User" band="1" classificationMin="0" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0" label="0" color="#08306b"/>
+              <item alpha="255" value="0.1" label="0.1" color="#08519c"/>
+              <item alpha="255" value="0.22" label="0.22" color="#2171b5"/>
+              <item alpha="255" value="0.35" label="0.35" color="#4292c6"/>
+              <item alpha="255" value="0.48" label="0.48" color="#6baed6"/>
+              <item alpha="255" value="0.61" label="0.61" color="#9ecae1"/>
+              <item alpha="255" value="0.74" label="0.74" color="#c6dbef"/>
+              <item alpha="255" value="0.87" label="0.87" color="#deebf7"/>
+              <item alpha="255" value="1" label="1" color="#f7fbff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString"></DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList"/>
+      <LayerSnappingEnabledList type="QStringList"/>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList"/>
+      <LayerSnapToList type="QStringList"/>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList"/>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
