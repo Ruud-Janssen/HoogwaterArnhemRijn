@@ -1,7 +1,6 @@
 ---
 title: "Kayaking with floodwater on the river Rhine in Arnhem"
 output: rmarkdown::github_document
-always_allow_html: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -167,7 +166,7 @@ library(stringr)
 
 ## DEM, Digital Elevation Model
 
-Download files from (https://www.pdok.nl/nl/ahn3-downloads).
+Download files from https://www.pdok.nl/nl/ahn3-downloads.
 
 Load 5m DEM files:
 
@@ -206,7 +205,6 @@ plot(DTM)
 Unfortunately we have a gap for the river and on the North side of the river.
 It seems the buildings lack a DTM value as well, but this is less dramatic.
 Lets bring in a less accurate but all cover DEM.
-CIAT-CSI  SRTM website, <http://srtm.csi.cgiar.org>
 
 ```{r warning = FALSE}
 rm(DTM_Arnhem_SW, DTM_Arnhem_SE)
@@ -375,9 +373,10 @@ leaflet() %>%
    )
  )
 ```
+
 Or grab the image straight from the URL
-[WMS AHN2_05m v1.1.1 interpolated]<http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&LAYERS=ahn2_05m_int&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=true&HEIGHT=2048&WIDTH=2048&SRS=EPSG%3A3857&BBOX=650631.9847634202,6785162.126818524,665307.8941941741,6799838.036249279>
-[WMS AHN2_5m v1.3.0]<http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ahn2_5m&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=false&HEIGHT=2048&WIDTH=2048&CRS=EPSG%3A3857&BBOX=650631,6785162,665307,6799838>
+[WMS AHN2_05m v1.1.1 interpolated](http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&LAYERS=ahn2_05m_int&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=true&HEIGHT=2048&WIDTH=2048&SRS=EPSG%3A3857&BBOX=650631.9847634202,6785162.126818524,665307.8941941741,6799838.036249279)
+[WMS AHN2_5m v1.3.0](http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ahn2_5m&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=false&HEIGHT=2048&WIDTH=2048&CRS=EPSG%3A3857&BBOX=650631,6785162,665307,6799838)
 
 But we have no interest in the WMS service. We need the elevation data in the DEM, we need the WFS and the WCS services. The WFS provides features (vector, polygons…) while WCS supports raster/image data. So we need the WCS service from PDOK, http://pdok-ngr.readthedocs.io/services.html#catalogue-service-for-the-web-csw. 
 
@@ -417,11 +416,11 @@ Let's use the WCS and download the data (similar as wfs for features, but now fo
 ```
 
 Normally when this works you can grab the tif with gdal_translate.
-Detailed example: (http://gsif.isric.org/doku.php/wiki:tutorial_soilgrids)
+Detailed example: http://gsif.isric.org/doku.php/wiki:tutorial_soilgrids
 
 This is a setback, I am not sure how to solve this.
 The following Dutch site explains some things and why it works in QGIS (which is similar).
-(https://www.pdok.nl/sites/default/files/forum_attachments/user_484/ogc_wms_en_wfs_beveiligd_met_pki-certificaten_v0.1.pdf)
+https://www.pdok.nl/sites/default/files/forum_attachments/user_484/ogc_wms_en_wfs_beveiligd_met_pki-certificaten_v0.1.pdf
 
 Now we downloaded the file via QGIS manually (make sure you set the map extent), which is fine for now as it is a single file
 
@@ -510,7 +509,7 @@ The new TIF images are imported in QGIS and exported for integration in Power BI
 The results look reasonable realistic, unfortunately the floodwater disappeared. But there is still some snow in the Alps, so we might get another spike this year. I am curious to see if it is reasonable or whether I can better stick to chess.
 
 
-All code, except GEE, is on GitHub, (https://github.com/Ruud-Janssen/HoogwaterArnhemRijn).
-The GEE code can be found here (you need a GEE account): (https://code.earthengine.google.com/234fae4c5055778f436e4e627d073721)
+All code, except GEE, is on [GitHub](https://github.com/Ruud-Janssen/HoogwaterArnhemRijn).
+The GEE code can be found here (you need a GEE account): [GEE link](https://code.earthengine.google.com/234fae4c5055778f436e4e627d073721)
 
-In the following YouTube video you can see the animated generated images, (https://www.youtube.com/watch?v=6fluUIGW00Y).
+In the following [YouTube](https://www.youtube.com/watch?v=6fluUIGW00Y) video you can see the animated generated images.
