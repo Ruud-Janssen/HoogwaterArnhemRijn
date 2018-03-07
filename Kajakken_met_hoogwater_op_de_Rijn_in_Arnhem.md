@@ -493,7 +493,7 @@ Visualize the data
 # )
 ```
 
-![Floodwater of the Rhine](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png)
+![Floodwater of the Rhine with bridge correction](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png)
 
 Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
 
