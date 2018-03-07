@@ -297,7 +297,7 @@ floodedArea12.8[floodedArea12.8 == 0] <- NA
 ```
 
 gdal\_polygonize
-================
+----------------
 
 Convert the TIF to a shapefile using python!
 
@@ -317,7 +317,7 @@ gdal_polygonizeR(
 ```
 
 SF library
-==========
+----------
 
 Lets see whether the python conversion worked. The new SF library is used to import the shapefile.
 
