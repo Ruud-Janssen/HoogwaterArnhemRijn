@@ -364,14 +364,14 @@ leaflet() %>%
     layers = "ahn2_05m_int", #or ahn2_5m
     options = WMSTileOptions(format = "image/tiff", transparent = TRUE),
     attribution = ""
-  ) %>%
+  ) #%>%
  #legend definitely needs customization, but that is for another time   
- addWMSLegend(uri = paste0(
-   "http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&",
-   "REQUEST=GetLegendGraphic&VERSION=1.1.1", #Or 1.3.0
-   "&FORMAT=image/tiff&LAYER=ahn2_05m_int"
-   )
- )
+ # addWMSLegend(uri = paste0(
+ #   "http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&",
+ #   "REQUEST=GetLegendGraphic&VERSION=1.1.1", #Or 1.3.0
+ #   "&FORMAT=image/tiff&LAYER=ahn2_05m_int"
+ #   )
+ # )
 ```
 
 Or grab the image straight from the URL
@@ -500,6 +500,7 @@ Visualize the data
 ```
 
 ![Floodwater of the Rhine](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png)
+                       
 Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
 
 

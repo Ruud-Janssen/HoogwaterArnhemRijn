@@ -359,17 +359,20 @@ leaflet() %>%
     layers = "ahn2_05m_int", #or ahn2_5m
     options = WMSTileOptions(format = "image/tiff", transparent = TRUE),
     attribution = ""
-  ) %>%
- #legend definitely needs customization, but that is for another time   
- addWMSLegend(uri = paste0(
-   "http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&",
-   "REQUEST=GetLegendGraphic&VERSION=1.1.1", #Or 1.3.0
-   "&FORMAT=image/tiff&LAYER=ahn2_05m_int"
-   )
- )
+  ) #%>%
 ```
 
 ![](Kajakken_met_hoogwater_op_de_Rijn_in_Arnhem_files/figure-markdown_github/unnamed-chunk-12-1.png)
+
+``` r
+ #legend definitely needs customization, but that is for another time   
+ # addWMSLegend(uri = paste0(
+ #   "http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&",
+ #   "REQUEST=GetLegendGraphic&VERSION=1.1.1", #Or 1.3.0
+ #   "&FORMAT=image/tiff&LAYER=ahn2_05m_int"
+ #   )
+ # )
+```
 
 Or grab the image straight from the URL [WMS AHN2\_05m v1.1.1 interpolated](http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&LAYERS=ahn2_05m_int&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=true&HEIGHT=2048&WIDTH=2048&SRS=EPSG%3A3857&BBOX=650631.9847634202,6785162.126818524,665307.8941941741,6799838.036249279) [WMS AHN2\_5m v1.3.0](http://geodata.nationaalgeoregister.nl/ahn2/wms?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=ahn2_5m&STYLES=&FORMAT=image%2Ftiff&TRANSPARENT=false&HEIGHT=2048&WIDTH=2048&CRS=EPSG%3A3857&BBOX=650631,6785162,665307,6799838)
 
@@ -490,7 +493,9 @@ Visualize the data
 # )
 ```
 
-![Floodwater of the Rhine](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png) Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
+![Floodwater of the Rhine](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png)
+
+Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
 
 The new TIF images are imported in QGIS and exported for integration in Power BI. The Power BI solution can be viewed on: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGQ0NDQyM2ItMWRlNS00YzQ2LTgwOTEtMTVkOTJiMWM3OTMyIiwidCI6Ijg3NGM1MzA1LWI0MDktNGU5Ni04ODhiLTQ4ODViNWQ0ZDYwNiIsImMiOjl9).
 
