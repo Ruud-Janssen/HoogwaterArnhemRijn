@@ -60,7 +60,7 @@ Actual and expected water levels in the Rhine near Arnhem + image (Google Maps!)
 
 The good thing about this Power BI-solution is it simplicity. The Power BI part is not spectacular, in the IT this is usually a good thing someone ones told me. A custom function is used to translate the Date column into a Date column which can be interpreted as a Date type. This date notation is used everywhere, hence the custom function. Though it is currently a bit cumbersome to create a custom function in Power BI. You need a parameter and just a query to be able to create a custom function.
 
-Mapping Floodedwater
+Mapping Floodwater
 --------------------
 
 In the next parts I will explain step by step how the Google Map images in Power BI are made. At this point we officially leave the Microsoft stack. The images themselves are made using QGIS. In QGIS the generated TIF images are combined with a basemap, in this case Google Maps. After a little layout crafting, transparancy 25% and color dark blue, the png images of the flooded areas were exported to a web location where Power BI could access it. The reason to use QGIS was simple as it was not possible to do this with Google Earth Engine.
