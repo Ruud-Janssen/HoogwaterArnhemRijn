@@ -27,7 +27,7 @@ Before we continue with the digital yourney, first a list of the technical topic
 -   GDAL
 -   PlantUML
 
-All the code is on Github, and the URL to the Google Earth Engine script is provided. The links are provided at the end of this article. It is written in the form of technical journey, with a practical purpose, to gain inside where we can kayak in Arnhem with floodwater.
+All the code is on Github, and the URL to the Google Earth Engine script is provided. All the links are provided at the end of this article. It is written in the form of technical journey, with a practical purpose, to gain inside where we can kayak in Arnhem with floodwater.
 
 Power BI
 --------
@@ -493,7 +493,7 @@ Visualize the data
 # )
 ```
 
-![Floodwater of the Rhine with bridge correction](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_Ahn2_5m_bridge_correction.png)
+![Floodwater of the Rhine with bridge correction](reportImages/RVisual_Floodwater_Rhine_using_AHN3_5m_and_AHN2_5m_bridge_correction.png)
 
 Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
 
@@ -501,6 +501,6 @@ The new TIF images are imported in QGIS and exported for integration in Power BI
 
 The results look reasonable realistic, unfortunately the floodwater disappeared. But there is still some snow in the Alps, so we might get another spike this year. I am curious to see if it is reasonable or whether I can better stick to chess.
 
-All code, except GEE, is on [GitHub](https://github.com/Ruud-Janssen/HoogwaterArnhemRijn). The GEE code can be found here (you need a GEE account): [GEE link](https://code.earthengine.google.com/234fae4c5055778f436e4e627d073721)
+The GEE code can be found here (you need a GEE account): [GEE link](https://code.earthengine.google.com/234fae4c5055778f436e4e627d073721)
 
 In the following [YouTube](https://www.youtube.com/watch?v=6fluUIGW00Y) video you can see the animated generated images.
