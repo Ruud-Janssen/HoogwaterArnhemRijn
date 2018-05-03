@@ -33,7 +33,7 @@ Power BI
 --------
 
 The actual water levels and throughput at Arnhem are visible on the website of Rijkswaterstaat, the department of Public Works. This information is vital for us as at some levels we are not allowed to be on the water for safety reasons. For rowers it is not allowed to be on the water with a throughput above 1100 m³/s. For kayakers there is no official limit though, we can use the areas on the side to go more easily stream upwards. The information used to be at the following location: [Rijkswaterstaat old](https://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ARNH&net=LMW). Though recently Rijkswaterstaat changed it to: [Rijkswaterstaat](https://waterinfo.rws.nl/#!/details/publiek/waterhoogte-t-o-v-nap/1868/).
-
+And even more recently (May 2018) they updated it to [Rijkswaterstaat new](https://waterinfo.rws.nl/#!/details/publiek/waterhoogte-t-o-v-nap/Arnhem(ARNH)/).
 But with this information we still don’t know where we can kayak with floodwater. My supposed solution was pretty simple, if we know the elevation of the land and the water level we know where to kayak. This is of course a little bit simplistic… (I am not a canal and port engineer).
 
 What do we need to create this solution:
@@ -497,7 +497,7 @@ Visualize the data
 
 Water level near the Rhine from 9.20m – 14m above NAP using R: AHN3 5m + AHN2 5m + bridge correction
 
-The new TIF images are imported in QGIS and exported for integration in Power BI. The Power BI solution can be viewed on: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGQ0NDQyM2ItMWRlNS00YzQ2LTgwOTEtMTVkOTJiMWM3OTMyIiwidCI6Ijg3NGM1MzA1LWI0MDktNGU5Ni04ODhiLTQ4ODViNWQ0ZDYwNiIsImMiOjl9).
+The new TIF images are imported in QGIS and exported for integration in Power BI. The Power BI solution can be viewed on: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjRiMzAwNDMtODZjMC00NjcxLWFiOTYtMDU5NTMzYjM4NTAyIiwidCI6Ijg3NGM1MzA1LWI0MDktNGU5Ni04ODhiLTQ4ODViNWQ0ZDYwNiIsImMiOjl9).
 
 The results look reasonable realistic, unfortunately the floodwater disappeared. But there is still some snow in the Alps, so we might get another spike this year. I am curious to see if it is reasonable or whether I can better stick to chess.
 
